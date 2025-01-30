@@ -1,5 +1,9 @@
 # Flavono123 Tap
 
+## Formulae
+
+- [kupid](https://github.com/flavono123/kupid)
+
 ## How do I install these formulae?
 
 `brew install flavono123/tap/<formula>`
